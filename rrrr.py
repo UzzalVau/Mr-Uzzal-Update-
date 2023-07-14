@@ -216,10 +216,10 @@ logo ="""
                                  
 \033[1;32m[+]==============================================
 \033[1;32m[+] \033[1;33mCREATED BY   :  \033[1;33mUZZAL
-\033[1;32m[+] \033[1;34mON FACEBOK   :  \033[1;34mUZZAL
-\033[1;32m[+] \033[1;35mON GITHUB    :  \033[1;35mUZZAL-143
+\033[1;32m[+] \033[1;34mON FACEBOK   :  \033[1;34mMD UZZAL HOSSAIN 
+\033[1;32m[+] \033[1;35mON GITHUB    :  \033[1;35mUZZALVAU
 \033[1;32m[+] \033[1;36mTOOL STATUS  :  \033[1;36mTOOL IS FREE
-\033[1;32m[+] \033[1;36mTOOL VIRSION :  \033[1;36m2.5.1
+\033[1;32m[+] \033[1;36mTOOL VIRSION :  \033[1;36m2.5.2
 \033[1;32m[+]==============================================      """
 loop = 0
 oks = []
@@ -253,9 +253,9 @@ def random_number():
     uid=[]
     os.system('clear')
     print(logo)
-    print('\033[1;92mPAK CODE: 92301,92302,92305,92306 ...\033[0;97m')
+    print('\033[1;92mBD CODE: 01771,01661,01991,01881 ...\033[0;97m')
     print('\033[1;92mAFG CODE: 9370,9371,9372,9377 ...\033[0;97m')
-    print('\033[1;92mBD  CODE: 880130,880140,880150...\033[0;97m')   
+    print('\033[1;92mBD  CODE: 017711,016666,019111...\033[0;97m')   
     kode = input('Put code: ')
     limit = int(input('How many numbers do you want to add ? '))
     for nmbr in range(limit):
